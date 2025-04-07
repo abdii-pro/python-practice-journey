@@ -39,13 +39,6 @@ This repo helps me:
 ```bash
 git clone https://github.com/yourusername/python-practice-journey.git
 ```
-
-2. Navigate and run any Python file:
-```bash
-cd python-practice-journey/basics
-python variables.py
-```
-
 ---
 
 ## 📌 Note
