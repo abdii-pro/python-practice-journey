@@ -1,7 +1,3 @@
-Awesome! Here's a clean and complete `README.md` template for your `python-practice-journey` repo:
-
----
-
 ```markdown
 # 🐍 Python Practice Journey
 
@@ -86,9 +82,3 @@ This repository will be updated regularly as I progress through the course. Stay
 ## 🙌 Connect
 
 Feel free to check out my work and connect!
-
-```
-
----
-
-Let me know if you'd like to customize it for a specific course name, or want a badge-style layout added at the top!
