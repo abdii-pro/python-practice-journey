@@ -21,31 +21,6 @@ This repository is part of my Python learning journey where I cover topics such 
 
 ---
 
-## 📁 Folder Structure
-
-```
-python-practice-journey/
-│
-├── basics/
-│   └── variables.py
-│   └── loops.py
-│
-├── functions/
-│   └── practice_functions.py
-│
-├── oops/
-│   └── classes_objects.py
-│
-├── file_handling/
-│   └── read_write_files.py
-│
-├── tasks/
-│   └── lab_task_1.py
-│   └── lab_task_2.py
-│
-└── README.md
-```
-
 ---
 
 ## 🚀 Purpose
